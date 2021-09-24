@@ -7,7 +7,7 @@ const Principal = () => {
     return (
         <>
             <div className="container px-5 mt-5 form-floating ">
-                <p className="bg-secondary p-2 text-white mb-0 text-start">Editor <a href="https://github.com/Ohtico">Ejemplo</a></p>
+                <p className="bg-secondary p-2 text-white mb-0 text-start">Editor <a href="https://markdownlivepreview.com/">Exanple</a></p>
                 <textarea
                     className="container form-control bg-info border border-0 "
                     style={{ height: "300px" }}
